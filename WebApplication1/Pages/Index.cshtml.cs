@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-// added comment
+// added comment for the new version
 namespace WebApplication1.Pages
 {
     public class IndexModel : PageModel
